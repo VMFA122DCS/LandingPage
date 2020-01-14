@@ -1,1 +1,1 @@
-![Logo](https://github.com/VMFA122DCS/LandingPage/blob/master/bin/img/122LogoMed.png)
+![Logo](https://github.com/VMFA122DCS/LandingPage/blob/master/bin/img/122LogoSmall.png)

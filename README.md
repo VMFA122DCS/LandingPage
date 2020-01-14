@@ -8,6 +8,7 @@
 - #### Operational Documents
   - [JTF-1 Radio Presets](https://drive.google.com/file/d/1fdZqZ1MGJXSQhE3Ocy95JWWn3k3AcAuI/view)
   - [CAS Kneeboard](https://github.com/VMFA122DCS/LandingPage/blob/master/bin/docs/Internal/Kneeboards/Crusader_CAS_Reference.png)
+  - [VMFA-122 TACSOP](https://github.com/VMFA122DCS/LandingPage/blob/master/bin/docs/Internal/VMFA-122_TACSOP%2025Nov19.pdf)
 - #### Technical
   - [TPOD Cheek Mod](https://github.com/VMFA122DCS/LandingPage/blob/master/bin/tech/TPOD_Cheek_Overide.zip)
 

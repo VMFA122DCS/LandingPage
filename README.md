@@ -2,7 +2,7 @@
 <H2>Welcome to VMFA-122</H2><h4>A DCS Squadron</H4><BR><HR><BR>
 
 - [Documents](https://github.com/VMFA122DCS/LandingPage/tree/master/bin/docs)
-  - [Training](https://github.com/VMFA122DCS/LandingPage/tree/master/bin/docs)
+  - [FA-18 NATOPS](https://github.com/VMFA122DCS/LandingPage/blob/master/bin/docs/Official/F18-ABCD%20NATOPS.pdf)
   - [SOP](https://github.com/VMFA122DCS/LandingPage/tree/master/bin/docs)
 - [Calendar](https://github.com/VMFA122DCS/LandingPage/tree/master/bin/docs)
 - [Media](https://github.com/VMFA122DCS/LandingPage/tree/master/bin/docs)
